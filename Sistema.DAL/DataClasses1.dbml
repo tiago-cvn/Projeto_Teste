@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Programa01" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=LOCALHOST;Initial Catalog=Programa01;Persist Security Info=True;User ID=sa" SettingsObjectName="Sistema.DAL.Properties.Settings" SettingsPropertyName="Programa01ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tb_Alunos" Member="tb_Alunos">
+    <Type Name="tb_Alunos">
+      <Column Name="ID_Aluno" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nome" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Pontos" Type="System.Single" DbType="Real" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,15 @@
+C:\Sistema venda\README\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Sistema venda\README\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Sistema venda\README\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Sistema venda\README\WindowsFormsApp1\bin\Debug\Sistema.DAL.dll
+C:\Sistema venda\README\WindowsFormsApp1\bin\Debug\Sistema.DAL.pdb
+C:\Sistema venda\README\WindowsFormsApp1\bin\Debug\Sistema.DAL.dll.config
+C:\Sistema venda\README\WindowsFormsApp1\obj\Debug\Programa 01.csprojAssemblyReference.cache
+C:\Sistema venda\README\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Menu.resources
+C:\Sistema venda\README\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Sistema venda\README\WindowsFormsApp1\obj\Debug\Programa 01.csproj.GenerateResource.cache
+C:\Sistema venda\README\WindowsFormsApp1\obj\Debug\Programa 01.csproj.CoreCompileInputs.cache
+C:\Sistema venda\README\WindowsFormsApp1\obj\Debug\Programa 01.csproj.CopyComplete
+C:\Sistema venda\README\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Sistema venda\README\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Sistema venda\README\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm_Cadastrar.resources

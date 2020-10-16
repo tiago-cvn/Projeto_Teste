@@ -1,0 +1,7 @@
+C:\Sistema venda\README\Sistema.DAL\bin\Debug\Sistema.DAL.dll.config
+C:\Sistema venda\README\Sistema.DAL\bin\Debug\Sistema.DAL.dll
+C:\Sistema venda\README\Sistema.DAL\bin\Debug\Sistema.DAL.pdb
+C:\Sistema venda\README\Sistema.DAL\obj\Debug\Sistema.DAL.csprojAssemblyReference.cache
+C:\Sistema venda\README\Sistema.DAL\obj\Debug\Sistema.DAL.csproj.CoreCompileInputs.cache
+C:\Sistema venda\README\Sistema.DAL\obj\Debug\Sistema.DAL.dll
+C:\Sistema venda\README\Sistema.DAL\obj\Debug\Sistema.DAL.pdb
