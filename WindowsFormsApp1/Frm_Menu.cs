@@ -23,7 +23,7 @@ namespace WindowsFormsApp1
           
             this.tbAlunosBindingSource.DataSource = DataContextFactory.dataContext.tb_Alunos;
 
-            dgv_Ranking.Sort(dgv_Ranking.Columns[2], ListSortDirection.Descending);
+            dgv_Ranking.Sort(dgv_Ranking.Columns[1], ListSortDirection.Descending);
             
         }
 

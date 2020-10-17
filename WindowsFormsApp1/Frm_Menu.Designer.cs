@@ -74,9 +74,8 @@
             this.dgv_Ranking.Location = new System.Drawing.Point(29, 73);
             this.dgv_Ranking.Name = "dgv_Ranking";
             this.dgv_Ranking.ReadOnly = true;
-            this.dgv_Ranking.Size = new System.Drawing.Size(492, 242);
+            this.dgv_Ranking.Size = new System.Drawing.Size(443, 242);
             this.dgv_Ranking.TabIndex = 3;
-            this.dgv_Ranking.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // tbAlunosBindingSource
             // 
@@ -101,7 +100,7 @@
             this.nomeDataGridViewTextBoxColumn.Name = "nomeDataGridViewTextBoxColumn";
             this.nomeDataGridViewTextBoxColumn.ReadOnly = true;
             this.nomeDataGridViewTextBoxColumn.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.nomeDataGridViewTextBoxColumn.Width = 200;
+            this.nomeDataGridViewTextBoxColumn.Width = 250;
             // 
             // pontosDataGridViewTextBoxColumn
             // 
@@ -118,7 +117,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.ClientSize = new System.Drawing.Size(552, 327);
+            this.ClientSize = new System.Drawing.Size(504, 327);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.dgv_Ranking);
             this.Controls.Add(this.label1);

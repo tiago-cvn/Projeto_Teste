@@ -21,8 +21,6 @@ namespace WindowsFormsApp1
         private void frm_Cadastrar_Load(object sender, EventArgs e)
         {
             this.tbAlunosBindingSource.DataSource = DataContextFactory.dataContext.tb_Alunos;
-
-            
         }
 
         private void btn_novo_Click(object sender, EventArgs e)
@@ -65,9 +63,6 @@ namespace WindowsFormsApp1
             return true;
         }
 
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
+        
     } 
 }
